@@ -1,4 +1,6 @@
-# NTML
+# NTML (Deprecated)
+
+This project has been deprecated. Please refer to its next iteration: [NTML](https://github.com/jmsapps/ntml)
 
 ## Project Overview
 
@@ -87,16 +89,16 @@ Output:
   }
 </style>
 <div class="__read-me-container">
-   <h1 style="text-decoration:underline">NTML Example</h1>
-   <div>
-      <button onclick=handleAlert()>Click me to display an alert</button>
-      <ul>
-         <li>NTML</li>
-         <li>IS</li>
-         <li>VERY</li>
-         <li>GREAT!!!</li>
-      </ul>
-      <p style="color:rgb(0, 18, 221)">Even seconds: 2024-12-30 15:00:40</p>
-   </div>
+  <h1 style="text-decoration:underline">NTML Example</h1>
+  <div>
+    <button onclick="handleAlert()">Click me to display an alert</button>
+    <ul>
+      <li>NTML</li>
+      <li>IS</li>
+      <li>VERY</li>
+      <li>GREAT!!!</li>
+    </ul>
+    <p style="color:rgb(0, 18, 221)">Even seconds: 2024-12-30 15:00:40</p>
+  </div>
 </div>
 ```
